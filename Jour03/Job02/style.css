@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    min-height: 100px;
+}
+
+.image {
+    cursor: pointer;
+}
+
+#message {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#player-container {
+    gap: 0;
+}
