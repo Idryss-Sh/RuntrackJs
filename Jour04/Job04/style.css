@@ -1,0 +1,4 @@
+#lengthPrenom, #lengthNom, #requiredPrenom, #requiredNom, #requiredEmail, #requiredMdp, #length, #char, #upper, #emailAlert{
+    display: none;
+    color: red;
+}
